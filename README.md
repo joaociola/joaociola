@@ -19,4 +19,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaociola)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaociola)
