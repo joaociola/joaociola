@@ -1,5 +1,3 @@
-### Olá! Eu sou o João Ciola 🤙
-
 ## 👋 Bem vindo ao meu perfil!
 
 <p align="justify"> ✋Olá! Meu nome é João Ciola e sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e gosto de explorar vários aspectos do desenvolvimento de software.<strong> Estudando Desenvolvimento Web </p>
