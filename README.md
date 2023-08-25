@@ -1,11 +1,9 @@
 ### Olá! Eu sou o João Ciola 🤙
 
+## 👋 Bem vindo ao meu perfil!
 
-![João Ciola GitHub stats](https://github-readme-stats.vercel.app/api?username=joaociola&show_icons=true&theme=dracula)
+<p align="justify"> ✋Olá! Meu nome é João Ciola e sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e gosto de explorar vários aspectos do desenvolvimento de software.<strong> Estudando Desenvolvimento Web </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/joaociola/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/ciolajoca/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ](https://wa.me/5541996031335)
 
 ### Tecnologias em uso
 
